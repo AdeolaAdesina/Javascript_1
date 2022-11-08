@@ -30,6 +30,9 @@ Use the console.log code in the editor to log your age to the console.
 
 Run your code when you are ready to see the result.
 
+## Video Explanation on Console.log() - https://youtu.be/lMAwyR5IZi8
+Must watch this video.
+
 
 
 # Comments
